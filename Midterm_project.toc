@@ -1,0 +1,50 @@
+\contentsline {section}{\numberline {1}Abstract}{4}{section.1}%
+\contentsline {section}{\numberline {2}Introduction}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}twistor theory in its essence}{6}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Mathematical Tools}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}2-spinor representation in Minkowski space}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Properties in 2-spinor representation}{7}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Signatures}{8}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Projective spaces}{9}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}n = 1 case}{9}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}Spin Group and SO(n)}{9}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Abstract description}{10}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}groups and representation theory}{10}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}SO(3) Group}{11}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Representation Theory}{11}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}explicit example of application of representation theory}{12}{subsubsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.5}Fibration}{12}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}lift}{12}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}homotopy lifting properties (HLP)}{13}{subsubsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.6}Sheaf}{13}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}presheaf}{13}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2}Sheaf}{14}{subsubsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.7}Complex Objects}{15}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}Differential forms on complex manifold}{15}{subsubsection.3.7.1}%
+\contentsline {subsubsection}{\numberline {3.7.2}Dolbeault operators}{16}{subsubsection.3.7.2}%
+\contentsline {subsubsection}{\numberline {3.7.3}tangent vectors on complex manifold}{17}{subsubsection.3.7.3}%
+\contentsline {subsubsection}{\numberline {3.7.4}Holomorphic delta function}{18}{subsubsection.3.7.4}%
+\contentsline {section}{\numberline {4}Twistor Theory}{18}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Mathematical structure of Twistor Theory}{18}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Dual Twistor Space}{19}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Twistor correspondence}{20}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Zero-rest-mass fields}{21}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Zero Rest Mass fields on $ \mathbb {M}$}{21}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}geometric objects in spin 1 zero mass field}{21}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}conformity of z.r.m. equations}{24}{subsubsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.2}positive(negative)-frequency quantities}{25}{subsection.5.2}%
+\contentsline {section}{\numberline {6}The Penrose Transform}{26}{section.6}%
+\contentsline {subsection}{\numberline {6.1}On finding correspondence of z.r.m field in $\mathbb {PT}$}{27}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}z.r.m. field structure in $\mathbb {PT}$}{28}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Ward's correspondence}{29}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Gauge theory in general setting}{29}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Gauge theory in TT}{30}{subsection.7.2}%
+\contentsline {section}{\numberline {8}MHV amplitudes in TT}{31}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Tree-level gluon scattering in pure Yang-Mills theory}{31}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Parke-Taylor Formula (PTF)}{31}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Alternative derivation of Parke Taylor formula}{32}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Witten's conjecture}{32}{subsection.8.4}%
+\contentsline {section}{\numberline {9}Conclusion}{33}{section.9}%
+\contentsline {section}{Appendices}{34}{section*.2}%
+\contentsline {section}{\numberline {A}Massless spin 1 particle}{34}{appendix.1.A}%
+\contentsline {section}{\numberline {B}$gg \to gg$ scattering amplitude in Pure Yang-Mills theory}{35}{appendix.1.B}%
